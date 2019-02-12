@@ -1,1 +1,1 @@
-# microservices-production-sample
+Sample microservices with Go
